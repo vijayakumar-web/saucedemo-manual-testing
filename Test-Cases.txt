@@ -19,7 +19,7 @@ Steps:
 3. Click Login.
 Expected Result: An appropriate error message should appear, and login should fail.
 Actual Result:  Username and password do not match any user in this service.
-Status: Not Run.
+Status: Pass.
 
 TC003 – Login with Empty Fields
 Precondition: User is on the login page.
