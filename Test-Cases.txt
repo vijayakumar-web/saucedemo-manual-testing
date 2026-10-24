@@ -1,0 +1,67 @@
+PROJECT: SauceDemo E-commerce Website
+TESTING TYPE: Manual Testing
+
+TC001 – Login with Valid Credentials
+Precondition: User is on the login page.
+Steps:
+1. Enter a valid username.
+2. Enter a valid password.
+3. Click Login.
+Expected Result: The user should successfully navigate to the products page.
+Actual Result: Successfully navigated to the products page.
+Status: Pass.
+
+TC002 – Login with Invalid Credentials
+Precondition: User is on the login page.
+Steps:
+1. Enter an invalid username.
+2. Enter an invalid password.
+3. Click Login.
+Expected Result: An appropriate error message should appear, and login should fail.
+Actual Result:  Username and password do not match any user in this service.
+Status: Not Run.
+
+TC003 – Login with Empty Fields
+Precondition: User is on the login page.
+Steps:
+1. Leave the username field empty.
+2. Leave the password field empty.
+3. Click Login.
+Expected Result: The application should display a validation message and prevent login.
+Actual Result: Error message displayed — "Epic sadface: Username is required".
+Status: Pass.
+
+TC004 – Verify Product Listing
+
+Precondition: User is logged in and on the Products page.
+
+Test Steps:
+1. Open SauceDemo.
+2. Enter valid username and password.
+3. Click the Login button.
+4. Verify that product names are displayed.
+5. Verify that product prices are displayed.
+6. Verify that product images are displayed.
+
+Expected Result: All products should display their names, prices, and images correctly.
+
+Actual Result: Product names and prices were displayed successfully.
+
+Status: Pass.
+
+TC005 – Add Product to Cart
+
+Precondition: User is logged in and on the Products page.
+
+Test Steps:
+1. Select any product.
+2. Click the Add to cart button for that product.
+3. Observe the cart icon.
+
+Expected Result: The selected product should be added to the cart, and the cart icon should display the item count.
+
+Actual Result: Actual Result: Product was added successfully, and the cart icon displayed 1 item.
+
+Status: Pass.
+
+Status: Not Run.

@@ -1,0 +1,36 @@
+SAUCEDEMO E-COMMERCE WEBSITE TEST EXECUTION SUMMARY
+
+Project Name: SauceDemo E-commerce Website Testing
+Testing Type: Manual Testing
+Application URL: https://www.saucedemo.com/
+Prepared By: Vijay
+
+1. TEST EXECUTION OVERVIEW
+
+Total Test Cases: 8
+Executed Test Cases: Update after verifying all results
+Passed Test Cases: Update after verifying all results
+Failed Test Cases: Update after verifying all results
+Not Run: Update after verifying all results
+
+2. TEST CASES COVERED
+
+TC001 – Login with Valid Credentials
+TC002 – Login with Invalid Credentials
+TC003 – Login with Empty Fields
+TC004 – Verify Product Listing
+TC005 – Add Product to Cart
+TC006 – Remove Product from Cart
+TC007 – Verify Checkout Process
+TC008 – Complete Checkout
+
+3. TEST EXECUTION NOTES
+
+Test cases were executed manually using a web browser.
+Actual results were compared with expected results.
+Each test case status was recorded based on observed application behavior.
+
+4. CONCLUSION
+
+The planned login, product listing, cart, and checkout scenarios were tested.
+Refer to the individual test case records for actual results and statuses.

@@ -1,0 +1,62 @@
+TEST PLAN – SAUCEDEMO E-COMMERCE WEBSITE
+
+1. PROJECT OVERVIEW
+
+Project Name: SauceDemo E-commerce Website Testing
+
+Application URL: https://www.saucedemo.com/
+
+Testing Type: Manual Testing
+
+Prepared By: Vijay
+
+Objective:
+To verify that the login, product listing, shopping cart, and checkout functionalities work as expected.
+
+2. SCOPE OF TESTING
+
+Features Included:
+- Login with valid credentials
+- Login with invalid credentials
+- Verify product listings
+- View product details
+- Add products to the shopping cart
+- Remove products from the shopping cart
+- Verify shopping cart contents
+- Test checkout form validation
+- Complete the checkout process
+
+Features Excluded:
+- Performance testing
+- Security testing
+- Automated testing
+- Mobile application testing
+
+3. TEST ENVIRONMENT
+
+Operating System: Windows 10/11
+Browser: Microsoft Edge or Google Chrome
+Application: SauceDemo website
+Testing Method: Manual Testing
+Test Data: Valid and invalid login credentials
+
+4. TESTING APPROACH
+
+1. Open the SauceDemo website.
+2. Execute test cases manually.
+3. Compare actual results with expected results.
+4. Record each test as Pass or Fail.
+5. Report defects when actual results differ from expected results.
+6. Retest after a defect is fixed, if applicable.
+
+5. ENTRY CRITERIA
+
+- The application is accessible.
+- The browser is working correctly.
+- Test cases and test data are prepared.
+
+6. EXIT CRITERIA
+
+- All planned test cases have been executed where possible.
+- Test results have been recorded.
+- Any observed defects have been documented.
