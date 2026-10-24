@@ -8,10 +8,10 @@ Prepared By: Vijay
 1. TEST EXECUTION OVERVIEW
 
 Total Test Cases: 8
-Executed Test Cases: Update after verifying all results
-Passed Test Cases: Update after verifying all results
-Failed Test Cases: Update after verifying all results
-Not Run: Update after verifying all results
+Executed Test Cases: 8
+Passed Test Cases: To be confirmed
+Failed Test Cases: To be confirmed
+Not Run: To be confirmed
 
 2. TEST CASES COVERED
 
@@ -32,5 +32,5 @@ Each test case status was recorded based on observed application behavior.
 
 4. CONCLUSION
 
-The planned login, product listing, cart, and checkout scenarios were tested.
-Refer to the individual test case records for actual results and statuses.
+The planned login, product listing, cart, and checkout scenarios were covered.
+Final pass and fail counts must be confirmed against the recorded test results.
