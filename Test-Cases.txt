@@ -51,7 +51,7 @@ Status: Pass.
 
 TC005 – Add Product to Cart
 
-Precondition: User is logged in and on the Products page.
+Precondition : User is logged in and on the Products page.
 
 Test Steps:
 1. Select any product.
@@ -60,8 +60,7 @@ Test Steps:
 
 Expected Result: The selected product should be added to the cart, and the cart icon should display the item count.
 
-Actual Result: Actual Result: Product was added successfully, and the cart icon displayed 1 item.
+Actual Result : Product was added successfully, and the cart icon displayed 1 item.
 
 Status: Pass.
 
-Status: Not Run.
